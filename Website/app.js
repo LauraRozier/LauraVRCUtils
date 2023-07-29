@@ -24,7 +24,7 @@ const PACKAGES = {
       {{~ end ~}}
     ],
     license: "{{ package.License }}",
-    licensesUrl: "{{ package.LicensesUrl }}",
+    licensesUrl: "{{ if package.LicensesUrl; package.LicensesUrl; else; package.LicenseUrl; end; }}",
   },
 {{~ end ~}}
 };
