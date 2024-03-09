@@ -15,6 +15,7 @@
     "bannerUrl":"banner.png",
     "githubRepos":[
         "LauraRozier/LauraEditor",
-        "LauraRozier/Config-IFacialMocap-Blend-Shapes"
+        "LauraRozier/Config-IFacialMocap-Blend-Shapes",
+        "LauraRozier/VRCWriteDefaultsTool"
     ]
 }
