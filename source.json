@@ -16,6 +16,7 @@
     "githubRepos":[
         "LauraRozier/LauraEditor",
         "LauraRozier/Config-IFacialMocap-Blend-Shapes",
-        "LauraRozier/VRCWriteDefaultsTool"
+        "LauraRozier/VRCWriteDefaultsTool",
+        "LauraRozier/LauraEditorTools"
     ]
 }
