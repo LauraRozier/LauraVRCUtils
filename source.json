@@ -17,7 +17,6 @@
         "LauraRozier/LauraEditor",
         "LauraRozier/Config-IFacialMocap-Blend-Shapes",
         "LauraRozier/VRCWriteDefaultsTool",
-        "LauraRozier/LauraEditorTools",
-        "LauraRozier/LERPT"
+        "LauraRozier/LauraEditorTools"
     ]
 }
